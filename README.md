@@ -8,6 +8,7 @@
 ![daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel281106&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel281106&theme=dark)](https://github.com/daniel281106?tab=repositories)
 </div>
+<hr>
 
 ### Tecnologias que estou a aprender 
 <div style="display: inline_block">
@@ -20,6 +21,7 @@
 </div>
 
 <br>
+<hr>
 
 ### Sistema operacional que uso
 
@@ -31,13 +33,16 @@
 
 <div><br></div>
 
-<div align="center">
 
-  ![Snake animation](https://github.com/daniel281106/daniel281106/blob/main/.github/workflows/github-contribution-grid-snake.svg)
-  
+
+
+
+
+<div align="center">
+ <p>mente mamba</p>
 </div>
 
-<p>mente mamba</p>
+
 
 
 
