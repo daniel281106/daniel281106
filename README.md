@@ -1,12 +1,14 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-### Olá! eu sou o joão daniel dev em fase de aprendizado⚡⚡⚡
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Daniel+Oliveira;I'm+16+years+old;I+from+Brasil,+CE;I+study+web+programming+and+web+designer;at+professionalizing;Be+Welcome⚡⚡⚡!+:%29)](https://git.io/typing-svg)
+
 
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d4n.py/)
 [![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaodaniel2346@gmail.com)
 <div>
 
-![daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel281106&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel281106&theme=dark)](https://github.com/daniel281106?tab=repositories)
+![daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel281106&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel281106&theme=tokyonight)](https://github.com/daniel281106?tab=repositories)
 </div>
 <hr>
 
@@ -34,7 +36,7 @@
 <div><br></div>
 
 
-
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=daniel281106&theme=gotham)
 
 
 
@@ -42,6 +44,7 @@
  <p>mente mamba</p>
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
 
