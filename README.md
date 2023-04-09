@@ -31,11 +31,5 @@
 
 <div><br></div>
 
-<div align="center">
-
-  ![Snake animation](https://github.com/daniel281106/daniel281106/blob//github-contribution-grid-snake.svg)
-  
-</div>
-
 
 
