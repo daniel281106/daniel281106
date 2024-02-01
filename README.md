@@ -25,21 +25,6 @@
 <br>
 <hr>
 
-### Sistema operacional que uso
-
-<div style="display: inline_block">
-<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="imagem" align="center">
- 
-
-</div>
-
-<div><br></div>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daniel281106&bg_color=000000&color=ff0000&line=0400ff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 <div align="center">
  <p>mente mamba</p>
 </div>
