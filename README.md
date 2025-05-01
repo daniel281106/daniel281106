@@ -45,14 +45,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel281106&layout=compact&theme=tokyonight" />
 </div>
 
----
-## 📅 Gráfico de Contribuições Recentes
 
-<div align="center">
-  <img src="https://github-contributions.vercel.app/api?username=daniel281106&theme=tokyo" />
-</div>
-
----
 
 ## 💡 Frase que me define
 
