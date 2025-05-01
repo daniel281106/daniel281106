@@ -51,10 +51,10 @@
 
 ## 📅 Gráfico de Contribuições Recentes
 
-> *Filtro por mês para uma visão mais realista:*
+
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniel281106&theme=tokyo-night&area=true&hide_border=true&custom_title=Atividades+recentes+no+GitHub&line=00bfbf&point=ffffff&radius=10" />
+  <img src="https://github-contributions.vercel.app/api?username=daniel281106&theme=tokyo" />
 </div>
 
 ---
