@@ -53,23 +53,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniel281106&theme=tokyo-night&area=true&hide_border=true" />
 </div>
 
----
-
-## 💡 Commits Estilizados com Emojis
-
-Exemplos de como deixo meus commits mais expressivos e claros:
-
-| Emoji | Significado               |
-|-------|---------------------------|
-| 🎨   | Estilo e layout            |
-| 🔧   | Ajustes de configuração    |
-| 🐛   | Correção de bugs           |
-| ✨   | Novas funcionalidades      |
-| 📝   | Documentação               |
-| ♻️   | Refatoração                |
-| ✅   | Testes                     |
-
----
 
 <div align="center">
   <p><strong>🖤 Mente Mamba - Disciplina, Foco e Persistência.</strong></p>
