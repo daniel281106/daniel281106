@@ -40,8 +40,6 @@
 
 ## 📊 GitHub Stats
 
-> *Obs: Como contribuo em projetos privados ou compartilhados, alguns commits não aparecem publicamente.*
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel281106&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel281106&layout=compact&theme=tokyonight" />
@@ -49,8 +47,6 @@
 
 ---
 ## 📅 Gráfico de Contribuições Recentes
-
-> *Mostra commits públicos e privados (se ativado no site). Você também pode filtrar por mês usando o parâmetro `&range=YYYY-MM`.*
 
 <div align="center">
   <img src="https://github-contributions.vercel.app/api?username=daniel281106&theme=tokyo" />
