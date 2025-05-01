@@ -16,46 +16,55 @@
 
 ---
 
-## 🚀 Sobre Mim
+## 🧠 Sobre Mim
 
-- 🌎 De Fortaleza/CE - Brasil  
-- 📚 Estudante de Programação Web e Web Design  
-- 🔥 Focado em desenvolvimento **Fullstack**  
-- 💡 Em constante aprendizado e evolução  
-- 🧠 "Mentalidade Mamba" sempre ligada  
+- 🌍 De **Fortaleza/CE - Brasil**
+- 💻 Estudante de **Programação Web** e **Web Design**
+- 🚀 Atuando como **Desenvolvedor Fullstack**
+- 📈 Buscando sempre **resultados reais** e aprendizado prático
+- 🧠 Mentalidade: **Foco, disciplina e evolução contínua**
 
 ---
 
-## 🛠️ Tecnologias em Aprendizado
+## ⚙️ Tecnologias em Aprendizado
 
-<div style="display: flex; gap: 8px;">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </div>
 
 ---
 
-## 📈 Minhas Estatísticas no GitHub
+## 📊 GitHub Stats
+
+> *Obs: Como contribuo em projetos privados ou compartilhados, alguns commits não aparecem publicamente.*
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel281106&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel281106&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel281106&layout=compact&theme=tokyonight" />
 </div>
 
 ---
 
-## 🔥 Gráfico de Contribuições
+## 📅 Gráfico de Contribuições Recentes
+
+> *Filtro por mês para uma visão mais realista:*
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniel281106&theme=tokyo-night&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniel281106&theme=tokyo-night&area=true&hide_border=true&custom_title=Atividades+recentes+no+GitHub&line=00bfbf&point=ffffff&radius=10" />
 </div>
 
+---
+
+## 💡 Frase que me define
 
 <div align="center">
-  <p><strong>🖤 Mente Mamba - Disciplina, Foco e Persistência.</strong></p>
+  <strong>🖤 Mente Mamba — Disciplina, Foco e Persistência.</strong>
 </div>
+
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
