@@ -48,10 +48,9 @@
 </div>
 
 ---
-
 ## 📅 Gráfico de Contribuições Recentes
 
-
+> *Mostra commits públicos e privados (se ativado no site). Você também pode filtrar por mês usando o parâmetro `&range=YYYY-MM`.*
 
 <div align="center">
   <img src="https://github-contributions.vercel.app/api?username=daniel281106&theme=tokyo" />
