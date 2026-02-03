@@ -78,9 +78,17 @@ Utilizo a programação para criar soluções práticas, funcionais e escalávei
 
 ## 📊 GitHub Stats
 
-<img src="https://raw.githubusercontent.com/daniel281106/daniel281106/output/snake.svg" alt="Snake animation"/>
+- uses: Platane/snk@v3
+  with:
+    # GitHub username
+    github_user_name: daniel281106
 
----
+    # Files to generate
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
+
 
 ## 💡 Mentalidade
 
