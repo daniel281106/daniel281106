@@ -40,10 +40,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel281106&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel281106&layout=compact&theme=tokyonight" />
-</div>
+###
+
+<img src="https://raw.githubusercontent.com/daniel281106/daniel281106/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
