@@ -1,16 +1,20 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <h1 align="center">Olá, eu sou João Daniel 👨‍💻</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=25&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Fullstack;Apaixonado+por+tecnologia+e+design;Focado+em+resultados+e+evolução+constante;Seja+bem-vindo(a)+ao+meu+perfil!" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=24&center=true&vCenter=true&width=1000
+    &lines=Desenvolvedor+Fullstack;Desenvolvedor+de+Sistemas;APIs+%7C+Automações+%7C+Web;Sempre+aprendendo+e+evoluindo;Bem-vindo(a)+ao+meu+GitHub!" 
+  />
 </p>
 
 <div align="center">
-  <a href="https://www.instagram.com/d4n.py/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:joaodaniel2346@gmail.com">
+  <a href="mailto:danielgit28@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/joão-daniel-pereira-9ab127310/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
@@ -18,42 +22,72 @@
 
 ## 🧠 Sobre Mim
 
-- 🌍 De **Fortaleza/CE - Brasil**
-- 💻 Estudante de **Programação Web** e **Web Design**
-- 🚀 Atuando como **Desenvolvedor Fullstack**
-- 📈 Buscando sempre **resultados reais** e aprendizado prático
-- 🧠 Mentalidade: **Foco, disciplina e evolução contínua**
+Sou **Desenvolvedor Fullstack** com foco em **desenvolvimento de sistemas, aplicações web e integrações de APIs**.  
+Utilizo a programação para criar soluções práticas, funcionais e escaláveis, sempre buscando evoluir tecnicamente.
+
+- 💻 Desenvolvimento de sistemas e aplicações web  
+- 🔗 Integração com APIs REST  
+- 🤖 Automações de processos com **n8n**  
+- 🚀 Aprendizado contínuo e foco em boas práticas  
 
 ---
 
-## ⚙️ Tecnologias em Aprendizado
+## ⚙️ Tecnologias
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+### 💻 Linguagens
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
+
+### 🌐 Front-end
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</div>
+
+### 🔗 Back-end, APIs & Automação
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API_REST-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+</div>
+
+### 🗄️ Banco de Dados & Versionamento
+<div>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
+---
+
+## 📚 Formação em Tecnologia
+
+- 🎓 **Técnico em Informática**  
+  Ênfase em Desenvolvimento de Sistemas, Banco de Dados, Redes e Programação
+
+- 🎓 **Análise e Desenvolvimento de Sistemas** (Cursando)
+
+- 📘 **Web Full Stack Developer**  
+  HTML, CSS, JavaScript, React, Node.js, APIs e Banco de Dados
 
 ---
 
 ## 📊 GitHub Stats
 
-###
+<img src="https://raw.githubusercontent.com/daniel281106/daniel281106/output/snake.svg" alt="Snake animation"/>
 
-<img src="https://raw.githubusercontent.com/daniel281106/daniel281106/output/snake.svg" alt="Snake animation" />
+---
 
-###
+## 💡 Mentalidade
 
+<p align="center">
+  <strong>Disciplina, consistência e evolução através da programação.</strong>
+</p>
 
-
-## 💡 Frase que me define
-
-<div align="center">
-  <strong>🖤 Mente Mamba — Disciplina, Foco e Persistência.</strong>
-</div>
-
-<br>
+---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
